@@ -31,7 +31,7 @@ body main {
       -ms-flex-align: stretch;
           align-items: stretch;
   justify-items: center;
-  grid-gap: 20px;
+  grid-gap: 10px;
   margin: 20px;
 }
 
